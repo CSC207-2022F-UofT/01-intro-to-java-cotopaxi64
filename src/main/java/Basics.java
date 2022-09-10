@@ -145,7 +145,6 @@ public class Basics {
          *                separated by spaces, so no loops are required, though
          *                you may use them if you wish.
          */
-
         StringBuilder ret = new StringBuilder();
         String[] string_arr = to_split.split(" ", 8);
 
